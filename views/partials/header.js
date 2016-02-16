@@ -11,7 +11,7 @@
   </head>
 <body>
   <nav class="navbar navbar-default navbar-fix-top">
-    <ul>
+    <ul class="nav navbar-nav">
         <li><a href="/" title="Home">Home</a></li>
         <li><a href="/about" title="About">About</a></li>
         <li><a href="/random" title="random">Random</a></li>
